@@ -1,4 +1,4 @@
-package Variables;
+package variables;
 
 public class F03_Variables {
 
@@ -31,6 +31,7 @@ public class F03_Variables {
 			System.out.println(sayi1+harf1+sayi2); //10A20
 			System.out.println(harf1+(sayi1+sayi2)); //A30
 
+			@SuppressWarnings("unused")
 			int sayi =10;
 			int a=10;
 			int b=20;
