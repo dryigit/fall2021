@@ -39,7 +39,8 @@ public class F05_Modulus {
 			System.out.println("Please enter a 4 digit number");
 		}
 		
-		
+		int num3=627;
+		System.out.println(num3/10); 
 		
 
 	}
