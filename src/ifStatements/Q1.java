@@ -7,12 +7,11 @@ public class Q1 {
 	public static void main(String[] args) {
 		/* 1. "Enter your midterm exam result:" 
 		 * 2. midterm grade will be entered as a double value. 
-		 * 3. "Enter midterm exam percentage" to the user. ->> should be double ->> 0,40 affects !!You enter the system how many percent it affects.!! 
+		 * 3. "Enter midterm exam percentage" to the user. ->> should be double ->> 0,40 affects !!
 		 * 4. Enter your final exam result to the user. 
 		 * 5. The final grade should be double (eg: 65,5) 
 		 * 6. "Enter the final exam percentage" to the user-->> it should be double ->> 0,60 affects. 
-		 * 7. Visa To find the final average, 40 percent of the midterm and 60 percent of the final must be taken and the results must be added 
-		 * 8. You can equalize the result (the grade point average of the course) to the double total 
+		 * 7.  To find the final average, 40 percent of the midterm and 60 percent of the final must be taken and the results must be added 
 		 * 
 		 * todo : If the condition part is greater than 90 (including 90), AA as letter grade, 
 		 * 								     BA between 80 (including 80) and 90, BB 
