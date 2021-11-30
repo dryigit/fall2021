@@ -30,5 +30,6 @@ public class Q6 {
 		System.out.println("The completion time is: "+completionTime + " days");
 
 		scan.close();
+		
 }
 }
