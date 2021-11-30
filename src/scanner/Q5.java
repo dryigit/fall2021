@@ -28,6 +28,7 @@ public class Q5 {
 		double bmi=weight/ (height*height);
 		System.out.println("Your BMI is: "+bmi);
 
+		scan.close();
 	}
 
 }
