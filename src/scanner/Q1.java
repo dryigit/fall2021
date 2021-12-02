@@ -23,6 +23,8 @@ public class Q1 {
 		double weight=scan.nextDouble();
 		
 		System.out.println("Your name and surname is " + name + " " +surname +"\nYour age is: "+age +" \nYour height is: "+height +"\nYour weight is: "+weight);
+	
+		scan.close();
 	}
 
 }

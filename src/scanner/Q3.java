@@ -24,6 +24,6 @@ public class Q3 {
 							"\nMinus: " + Minus +
 							"\nMultiplication: " + Multiplication +
 							"\nDivide : " + Divide);
-		
+		scan.close();
 }
 }

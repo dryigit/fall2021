@@ -36,6 +36,7 @@ public class Q2 {
 		}
 		
 
+		scan.close();
 	}
 
 }
