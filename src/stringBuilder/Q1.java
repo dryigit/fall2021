@@ -13,7 +13,7 @@ public class Q1 {
 				sb.trimToSize(); //Reduces capacity to length
 				
 				
-				//for string 
+				//for string
 				
 				long time1=System.nanoTime();
 				
