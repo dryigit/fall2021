@@ -22,8 +22,11 @@ public class Q2 {
 				reverse = reverse * 10 + remainder;
 			}
 			System.out.println("The reverse of the given number is: " + reverse);
-
-			scan.close();
+			
+			
+			
+			
+			
 		}
 
 	}

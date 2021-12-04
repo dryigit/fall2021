@@ -20,6 +20,17 @@ public class Q1 {
 
 		}
 		System.out.println(newString);
+		
+		
+		
+		
+		// with String Builder
+		
+					StringBuilder stringBuilder=new StringBuilder(str=scan.next());
+					System.out.println(stringBuilder.reverse());
+
+		
+		
 
 		scan.close();
 		
