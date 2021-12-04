@@ -3,9 +3,9 @@ package stringBuilder;
 public class Q1 {
 
 	public static void main(String[] args) {
-		// Question : Let's do 1000 times with the for loop.
-		// Let's check the time before and after and compare the performances of StringBuilder and String classes.
-		//Hint: long TimeSb = System.nanoTime(); let's use
+			// Question : Let's do 1000 times with the for loop.
+			// Let's check the time before and after and compare the performances of StringBuilder and String classes.
+			//Hint: long TimeSb = System.nanoTime(); let's use
 				
 				@SuppressWarnings("unused")
 				String str="Hello";
