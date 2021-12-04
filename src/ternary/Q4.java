@@ -1,5 +1,6 @@
 package ternary;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Q4 {
@@ -22,7 +23,6 @@ public class Q4 {
 		System.out.println(result);
 		
 		scan.close();
-
 		
 		
 	}
