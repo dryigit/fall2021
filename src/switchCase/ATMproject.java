@@ -53,6 +53,7 @@ public class ATMproject {
 			break;
 
 		default:
+			System.out.println("Invalid Entry");
 			break;
 		}
 		scan.close();
