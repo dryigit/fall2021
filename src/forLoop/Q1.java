@@ -26,6 +26,7 @@ public class Q1 {
 		System.out.println("The character "+ch1+ " exists in the string "+counter +" times");
 
 		scan.close();
+		
 	}
 
 }
